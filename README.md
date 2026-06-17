@@ -15,9 +15,9 @@
 
 ### 🌐 Patient Portal
 
-| 🏠 Landing Page (`User Interface.jpg`) | 🔍 Doctor Discovery (`Available Doctor Interface.jpg`) |
+| 🏠 Landing Page (`User Interface.png`) | 🔍 Doctor Discovery (`Available Doctor Interface.png`) |
 | :---: | :---: |
-| <img src="User Interface.png" width="100%" alt="Landing Page"/> | <img src="Available Doctor Interface.png" width="100%" alt="Available Doctors"/> |
+|  <img src="User Interface.png" width="100%" alt="Landing Page"/> | <img src="Available Doctor Interface.png" width="100%" alt="Available Doctors"/> |
 
 | 📅 Booking Calendar (`Slot and Time Booking Interface.png`) | 💳 Booking Status (`Online Payment Interface.png`) |
 | :---: | :---: |
