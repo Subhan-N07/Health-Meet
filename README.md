@@ -11,47 +11,45 @@
 
 ## 📸 Interface Preview
 
-> 💡 **Note:** To render these screenshots correctly on GitHub, make sure to add these image files to an assets/screenshots directory in your repository or adjust the image paths to point to where you host them.
-
 ### 🌐 Patient Portal
 
-| 🏠 Landing Page (`User Interface.png`) | 🔍 Doctor Discovery (`Available Doctor Interface.png`) |
+| 🏠 Landing Page | 🔍 Doctor Discovery |
 | :---: | :---: |
-|  <img src="User Interface.png" width="100%" alt="Landing Page"/> | <img src="Available Doctor Interface.png" width="100%" alt="Available Doctors"/> |
+| <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/User%20Interface.png" width="100%" alt="Landing Page"/> | <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Available%20Doctor%20Interface.png" width="100%" alt="Available Doctors"/> |
 
-| 📅 Booking Calendar (`Slot and Time Booking Interface.png`) | 💳 Booking Status (`Online Payment Interface.png`) |
+| 📅 Booking Calendar | 💳 Booking Status |
 | :---: | :---: |
-| <img src="Slot and Time Booking Interface.png" width="100%" alt="Slot and Time Booking"/> | <img src="Online Payment Interface.png" width="100%" alt="Razorpay Status"/> |
+| <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Slot%20and%20Time%20Booking%20Interface.png" width="100%" alt="Slot and Time Booking"/> | <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Online%20Payment%20Interface.png" width="100%" alt="Razorpay Status"/> |
 
-| 🕒 Appointment History (`Appointment Booking and Cancel Interface.png`) | 👤 Profile Management (`Patient Profile Interface.png`) |
+| 🕒 Appointment History | 👤 Profile Management |
 | :---: | :---: |
-| <img src="Appointment Booking and Cancel Interface.png" width="100%" alt="Appointments Status"/> | <img src="Patient Profile Interface.png" width="100%" alt="Patient Profile"/> |
+| <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Appointment%20Booking%20and%20Cancel%20Interface.png" width="100%" alt="Appointments Status"/> | <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Patient%20Profile%20Interface.png" width="100%" alt="Patient Profile"/> |
 
 ### 🩺 Doctor Dashboard
 
-| 📊 Doctor Analytics (`Patient History Interface.png`) | 📋 List of Patient Actions (`Appointment Handling Interface.png`) |
+| 📊 Doctor Analytics | 📋 List of Patient Actions |
 | :---: | :---: |
-| <img src="Patient History Interface.png" width="100%" alt="Doctor Earnings Dashboard"/> | <img src="Appointment Handling Interface.png" width="100%" alt="Doctor Appointment Tracking"/> |
+| <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Patient%20History%20Interface.png" width="100%" alt="Doctor Earnings Dashboard"/> | <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Appointment%20Handling%20Interface.png" width="100%" alt="Doctor Appointment Tracking"/> |
 
-| 👤 Bio Customization (`Doctor Own Profile Interface.png`) |
+| 👤 Bio Customization |
 | :---: |
-| <img src="Doctor Own Profile Interface.png" width="50%" alt="Doctor Profile Management"/> |
+| <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Doctor%20Own%20Profile%20Interface.png" width="50%" alt="Doctor Profile Management"/> |
 
 ### 🛠️ Administrator Panel
 
-| 📈 Global Dashboard (`Admin Dashboard Interface.png`) | 📑 Master Medical Ledger (`History Of All Appointment Interface.png`) |
+| 📈 Global Dashboard | 📑 Master Medical Ledger |
 | :---: | :---: |
-| <img src="Admin Dashboard Interface.png" width="100%" alt="Admin Metrics Dashboard"/> | <img src="History Of All Appointment Interface.png" width="100%" alt="All Appointments Ledger"/> |
+| <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Admin%20Dashboard%20Interface.png" width="100%" alt="Admin Metrics Dashboard"/> | <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/History%20Of%20All%20Appointment%20Interface.png" width="100%" alt="All Appointments Ledger"/> |
 
-| 🩺 Specialist Provisioning (`New Doctor Registration Interface.png`) | 👥 Provider Directory (`Docter List Interface.jpg`) |
+| 🩺 Specialist Provisioning | 👥 Provider Directory |
 | :---: | :---: |
-| <img src="New Doctor Registration Interface.png" width="100%" alt="Add New Doctor Form"/> | <img src="Docter List Interface.jpg" width="100%" alt="Admin Doctor Management View"/> |
+| <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/New%20Doctor%20Registration%20Interface.png" width="100%" alt="Add New Doctor Form"/> | <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Docter%20List%20Interface.png" width="100%" alt="Admin Doctor Management View"/> |
 
 ### 🔑 Authentication Gateways
 
-| 🔐 User & Admin Login (`Login Interface.png` & `Admin Login Interface.png`) | 🩺 Doctor Authentication (`Docter Login Interface.png`) |
+| 🔐 User & Admin Login | 🩺 Doctor Authentication |
 | :---: | :---: |
-| <img src="Login Interface.png" width="100%" alt="User Signup/Login"/> | <img src="Docter Login Interface.png" width="100%" alt="Doctor Specific Security Gateway"/> |
+| <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Login%20Interface.png" width="100%" alt="User Signup/Login"/> | <img src="https://raw.githubusercontent.com/Subhan-N07/Health-Meet/my-new-branch/Screenshots%20of%20Major%20Project/Docter%20Login%20Interface.png" width="100%" alt="Doctor Specific Security Gateway"/> |
 
 ---
 
@@ -110,7 +108,6 @@ Health-Meet/
 │   └── server.js           # Network instantiation endpoint
 └── README.md
 ```
-
 ---
 
  🚀 Getting Started
