@@ -17,7 +17,7 @@
 
 | 🏠 Landing Page (`User Interface.jpg`) | 🔍 Doctor Discovery (`Available Doctor Interface.jpg`) |
 | :---: | :---: |
-| <img src="User Interface.jpg" width="100%" alt="Landing Page"/> | <img src="Available Doctor Interface.jpg" width="100%" alt="Available Doctors"/> |
+| <img src="User Interface.png" width="100%" alt="Landing Page"/> | <img src="Available Doctor Interface.png" width="100%" alt="Available Doctors"/> |
 
 | 📅 Booking Calendar (`Slot and Time Booking Interface.png`) | 💳 Booking Status (`Online Payment Interface.png`) |
 | :---: | :---: |
